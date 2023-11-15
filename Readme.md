@@ -1,6 +1,6 @@
 How To Install : 
 
-git clone https://github.com/HanzXExploid/HanzC2/tree/main
+git clone https://github.com/HanzXExploid/HanzC2.git
 
 cd HanzC2
 
